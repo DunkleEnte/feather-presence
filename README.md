@@ -33,7 +33,7 @@ messages:
 <img width="1014" height="319" alt="image" src="https://github.com/user-attachments/assets/9b8ba2e5-0f23-4655-8056-fa3c0da02984" />
 
 ## Color Formats
-mod-detection is using MiniMessage for colors, if you don't know how to use it feel free to
+feather-presence is using MiniMessage for colors, if you don't know how to use it feel free to
 checkout this website -> https://docs.papermc.io/adventure/minimessage/
 
 | Format | Example |
